@@ -1,7 +1,6 @@
 # Academic CV – Ghafar (Foad) Boudaghi
 
-This repository contains my academic CV for MSc applications in
-Artificial Intelligence / Computer Science in Germany.
+This repository contains my academic CV for MSc applications in Artificial Intelligence / Computer Science in Italy, with a focus on securing a fully funded opportunity through **DSU scholarships**.
 
 📄 CV (PDF):
 Academic_CV_Ghafar_Foad_Boudaghi.pdf
